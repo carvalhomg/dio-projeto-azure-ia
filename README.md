@@ -23,7 +23,8 @@ Durante os testes na plataforma **Speech Studio**, foram executadas as seguintes
 - **Insights:** A transcrição em tempo real demonstrou baixa latência, sendo ideal para criação de legendas automáticas ou transcrição de chamadas de atendimento.
 
 *(Insira aqui o print da tela do Speech Studio na pasta /images)*
-> `![Print Speech Studio](images/speech-to-text-result.png)`
+> `![Print Speech Studio](images/falaemtexto2.png)`
+> `![Print Speech Studio](images/falaemtexto3.png)`
 
 ---
 
